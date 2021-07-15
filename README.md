@@ -7,6 +7,15 @@ para o bootcamp Gft_start JAva#2 na Plataforma DigitalInovation One, tem como fo
   * Lombok
       * [Site Oficial do Lombok]("https://projectlombok.org/")
     
+  * Mockito
+    * [Mockito]("https://site.mockito.org/")
+    
+  * Hamcrest
+    * [Hamcrest]("http://hamcrest.org/JavaHamcrest/")
+    
+  * Junit
+    * [Junit]("https://junit.org/junit5/")
+    
   * Git/GitHub
     * [Site Oficial do Git]("https://git-scm.com/")
     * [Site Oficial do GitHub]("https://GitHub.com")
