@@ -8,13 +8,13 @@ para o bootcamp Gft_start JAva#2 na Plataforma DigitalInovation One, tem como fo
       * [Site Oficial do Lombok]("https://projectlombok.org/")
     
   * Mockito
-    * [Mockito]("https://site.mockito.org/")
+    * [Site Oficial do Mockito]("https://site.mockito.org/")
     
   * Hamcrest
-    * [Hamcrest]("http://hamcrest.org/JavaHamcrest/")
+    * [Site Oficial do Hamcrest]("http://hamcrest.org/JavaHamcrest/")
     
   * Junit
-    * [Junit]("https://junit.org/junit5/")
+    * [Site Oficial do Junit]("https://junit.org/junit5/")
     
   * Git/GitHub
     * [Site Oficial do Git]("https://git-scm.com/")
@@ -40,7 +40,7 @@ para o bootcamp Gft_start JAva#2 na Plataforma DigitalInovation One, tem como fo
     * Verbo HTTP: DELETE
     * Apaga uma unica cerveja através de um ID
 
-  * http://localhost:8080/api/v1/beer/branda
+  * http://localhost:8080/api/v1/beer/brand
     * Verbo HTTP: DELETE
     * Apaga uma unica cerveja através de um brand
     
